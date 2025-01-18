@@ -1,6 +1,6 @@
-# Hi there, I'm Richo 👋
+## Hi there, I'm Richo 👋
 
-## 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
 I'm a passionate student on a journey to become a Full Stack Developer, working across web, mobile apps, and desktop apps. I’ve mastered front-end development and am now diving into back-end technologies in my studies.<br><br>When I’m not coding, you’ll find me lost in an interesting book or having a casual chat about programming, the perfect cup of coffee, business, or even the mysteries of the universe (probably with some snacks, because let’s be honest, I’m not just a Full Stack Developer, I’m also a Full Snack Developer, hahaha). On top of that, I enjoy working on UI/UX design and video editing.<br><br>And remember, I code, therefore I am... usually in need of more coffee. ☕😄
 
 ## 🌐 Socials:
