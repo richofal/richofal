@@ -20,7 +20,9 @@ I'm a passionate student on a journey to become a Full Stack Developer, working 
 ### ⚙️ Version Control & Tools:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+### 📊 Most Used Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=richofal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=richofal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=richofal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=richofal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
